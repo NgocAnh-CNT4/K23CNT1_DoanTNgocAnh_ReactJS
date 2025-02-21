@@ -1,4 +1,4 @@
-import DtnaJSxExpression from "./components/DtnaJSxExpression";
+import DtnaJSxExpression from './components/dtnaJSxExpression';
 
 function DtnaApp() {
   return (
